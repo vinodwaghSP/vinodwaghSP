@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/vinodwagh07">
-    <img width="1200px" alt="Hello, I'm Vinod. I build full stack applications!" src="./assets/github-header-banner (2).png" />
+    <img width="1200px" alt="Hello, I'm Vinod. I build full stack applications!" src="assests/github-header-banner (2).png" />
   </a>
 </p>
 
